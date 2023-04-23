@@ -1,7 +1,7 @@
 public class Gorilla extends Mammals {
     
     public Gorilla(int energyLevel) {
-        super(100);
+        super(energyLevel);
     }
 
     public void throwSomething() {

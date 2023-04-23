@@ -1,5 +1,5 @@
 public class Mammals {
-    public int energyLevel = 100;
+    public int energyLevel;
 
     public int displayEnergy() {
         System.out.println("Energy Level: " + energyLevel);
